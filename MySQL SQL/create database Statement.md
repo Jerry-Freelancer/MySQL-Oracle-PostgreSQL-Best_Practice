@@ -11,7 +11,7 @@ create_option: [DEFAULT] {
 }
 ```
 
-\#CREATE SCHEMA是CREATE DATABASE的同义词，create shcema等同于create database
+\#CREATE SCHEMA是CREATE DATABASE的同义词，create schema等同于create database
 
 \#记不住字符集和排序规则的时候，分别使用 SHOW CHARACTER SET and SHOW COLLATION语句查看可用的字符集和排序规则，
 
