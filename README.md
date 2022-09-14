@@ -1,4 +1,4 @@
-Oracle-MySQL-Best_Practice
+Oracle/MySQL Best_Practice
 
 Share some best practices of Oracle/MySQL from time to time, please pay attention.
 
