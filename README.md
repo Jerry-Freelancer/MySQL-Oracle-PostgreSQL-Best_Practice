@@ -1,6 +1,5 @@
-# MySQL-Things
-分享一些mysql的事，不定期更新，欢迎关注
+Oracle-MySQL-Best_Practice
 
-从入门到精通100课程
+Share some best practices of Oracle/MySQL from time to time, please pay attention.
 
-有mysql相关问题私shurp12138@gmail.com
+If you have any questions, please contact me through shurp12138@gmail.com.
