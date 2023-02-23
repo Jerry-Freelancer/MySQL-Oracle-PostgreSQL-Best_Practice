@@ -5,7 +5,7 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 <p align="center">Table of contents</p>
 
 [MySQL-001.Without binlog and backup, how to recover the mistakenly deleted database?](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/001.Without%20binlog%20and%20backup%2C%20how%20to%20recover%20the%20mistakenly%20deleted%20database.md)<br>
-[MySQL-002.How to import data from Excel table into MySQL](https://github.com/Jerry-Freelancer/Oracle-MySQL-Best_Practice/blob/main/002.How%20to%20import%20data%20from%20Excel%20table%20into%20MySQL.md)<br>
+[MySQL-002.How to import data from Excel table into MySQL](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/002.How%20to%20import%20data%20from%20Excel%20table%20into%20MySQL.md)<br>
 [MySQL-003.How to modify the MySQL UUID.md](https://github.com/Jerry-Freelancer/Oracle-MySQL-PostgreSQL-Best_Practice/blob/main/006.How%20to%20modify%20the%20MySQL%20UUID.md)<br>
 
 ###### About the author
