@@ -8,7 +8,8 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 [MySQL-002.How to import data from Excel table into MySQL](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/002.How%20to%20import%20data%20from%20Excel%20table%20into%20MySQL.md)<br>
 [MySQL-003.How to modify the MySQL UUID](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/003.How%20to%20modify%20the%20MySQL%20UUID.md)<br>
 [MySQL-004.Unleashing the Power of MySQL Discover the World of Numerical Types!](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/004.Unleashing%20the%20Power%20of%20MySQL%20Discover%20the%20World%20of%20Numerical%20Types!.md)<br>
-[MySQL-005.The problem encountered by autocommmit when initializing mysql 8]
+[MySQL-005.The problem encountered by autocommmit when initializing mysql 8](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/005.The%20problem%20encountered%20by%20autocommmit%20when%20initializing%20mysql%208.md)<br>
+
 
 
 ###### About the author
