@@ -11,6 +11,7 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 [MySQL-005.The problem encountered by autocommmit when initializing mysql 8](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/005.The%20problem%20encountered%20by%20autocommmit%20when%20initializing%20mysql%208.md)<br>
 [MySQL-006.About the application scenarios of limit M, N](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/006.About%20the%20application%20scenarios%20of%20limit%20M%2C%20N.md)<br>
 [MySQL-007.Too many binlog logs cause the database to fail to start](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/007.Too%20many%20binlog%20logs%20cause%20the%20database%20to%20fail%20to%20start.md)<br>
+[MySQL-008.](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/008.Install%20MySQL%20on%20UNIXLinux%20using%20generic%20binaries%20with%20Ansible.md)<br>
 
 
 
