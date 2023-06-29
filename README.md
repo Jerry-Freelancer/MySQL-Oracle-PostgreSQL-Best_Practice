@@ -13,8 +13,8 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 [MySQL-007.Too many binlog logs cause the database to fail to start](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/007.Too%20many%20binlog%20logs%20cause%20the%20database%20to%20fail%20to%20start.md)<br>
 [MySQL-008.Install MySQL on UNIXLinux using generic binaries with Ansible](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/008.Install%20MySQL%20on%20UNIXLinux%20using%20generic%20binaries%20with%20Ansible.md)<br>
 [MySQL-009.I/O threads can't connect during master-slave replication due to mysql 8 Authentication plugin.](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/009.IO%20threads%20can't%20connect%20during%20master-slave%20replication%20due%20to%20mysql%208%20Authentication%20plugin.md)<br>
-
-
+[010](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/010.Version%20problems%20encountered%20in%20backup%20and%20recovery%20with%20xtrabackup.md)
+<br>
 
 
 ###### About the author
