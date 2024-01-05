@@ -1,5 +1,5 @@
 # <p align="center">MySQL/Oracle/PostgreSQL Best_Practice</p>
-Share some best practices of MySQL/Oracle/PostgreSQL from time to time, please pay attention.<br>
+Share some best practices of MySQL/Oracle/PostgreSQL from time to time, I hope this writing is useful to you.<br>
 If you have any questions, please contact me through shurp12138@gmail.com.
 
 <p align="center">Table of contents</p>
