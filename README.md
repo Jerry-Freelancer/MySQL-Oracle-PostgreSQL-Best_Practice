@@ -1,4 +1,4 @@
-# <p align="center">MySQL/Oracle/PostgreSQL Best_Practice</p>
+# <p align="center">MySQL Cases</p>
 Share some best practices of MySQL/Oracle/PostgreSQL from time to time, I hope this writing is useful to you.<br>
 If you have any questions, please contact me through shurp12138@gmail.com.
 
