@@ -16,6 +16,8 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 [MySQL-010.Version problems encountered in backup and recovery with xtrabackup](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/010.Version%20problems%20encountered%20in%20backup%20and%20recovery%20with%20xtrabackup.md)<br>
 [MySQL-011.MySQL CASE 1:MySQL Shell Command Line Integration](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/011.MySQL%20CASE%201%20MySQL%20Shell%20Command%20Line%20Integration.md)<br>
 [MySQL-012.MySQL Database Backup Script use MySQL Shell](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/012.MySQL%20Database%20Backup%20Script%20use%20MySQL%20Shell%20.md)<br>
+[MySQL-013.How to install MySQL 8.4 on Ubuntu 24.04 Using the MySQL APT Repository](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/012.MySQL%20Database%20Backup%20Script%20use%20MySQL%20Shell%20.md)<br>
+
 
 
 
