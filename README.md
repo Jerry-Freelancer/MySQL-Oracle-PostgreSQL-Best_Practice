@@ -17,7 +17,7 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 [MySQL-011.MySQL CASE 1:MySQL Shell Command Line Integration](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/011.MySQL%20CASE%201%20MySQL%20Shell%20Command%20Line%20Integration.md)<br>
 [MySQL-012.MySQL Database Backup Script use MySQL Shell](https://github.com/Jerry-Freelancer/MySQL-Best_Practice/blob/main/012.MySQL%20Database%20Backup%20Script%20use%20MySQL%20Shell%20.md)<br>
 [MySQL-013.How to install MySQL 8.4 on Ubuntu 24.04 Using the MySQL APT Repository](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/013.How%20to%20install%20MySQL%208.4%20%20on%20Ubuntu%2024.04%20Using%20the%20MySQL%20APT%20Repository.md)<br>
-[MySQL-014.How to Install MySQL 9.0 on Rocky Linux 9.4](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/013.How%20to%20install%20MySQL%208.4%20%20on%20Ubuntu%2024.04%20Using%20the%20MySQL%20APT%20Repository.md)<br>
+[MySQL-014.How to Install MySQL 9.0 on Rocky Linux 9.4](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/014.How%20to%20Install%20MySQL%209.0%20on%20Rocky%20Linux%209.4.md)<br>
 
 
 
