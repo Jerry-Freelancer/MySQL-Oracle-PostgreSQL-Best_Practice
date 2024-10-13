@@ -23,6 +23,7 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 [MySQL-0017.How to migrate and upgrade from MySQL 5.7 to MySQL 8.0](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0017.How%20to%20migrate%20and%20upgrade%20from%20MySQL%205.7%20to%20MySQL%208.0.md)<br>
 [MySQL-0018.Upgrade from MySQL 5.7 to MySQL 8.0 failed](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0018.Upgrade%20from%20MySQL%205.7%20to%20MySQL%208.0%20failed.md)<br>
 [MySQL-0019.The Final Performance Installing MySQL 8 on Oracle Solaris 11 (X86)](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0019.The%20Final%20Performance%20Installing%20MySQL%208%20on%20Oracle%20Solaris%2011%20(X86).md)<br>
+[MySQL-0020.Give Love to Your MySQL – Reduce the number of threads when copy utilities](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0020.Give%20Love%20to%20Your%20MySQL%20%E2%80%93%20Reduce%20the%20number%20of%20threads%20when%20copy%20utilities.md)<br>
 
 
 
