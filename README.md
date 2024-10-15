@@ -24,6 +24,7 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 [MySQL-0018.Upgrade from MySQL 5.7 to MySQL 8.0 failed](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0018.Upgrade%20from%20MySQL%205.7%20to%20MySQL%208.0%20failed.md)<br>
 [MySQL-0019.The Final Performance Installing MySQL 8 on Oracle Solaris 11 (X86)](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0019.The%20Final%20Performance%20Installing%20MySQL%208%20on%20Oracle%20Solaris%2011%20(X86).md)<br>
 [MySQL-0020.Give Love to Your MySQL – Reduce the number of threads when copy utilities](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0020.Give%20Love%20to%20Your%20MySQL%20%E2%80%93%20Reduce%20the%20number%20of%20threads%20when%20copy%20utilities.md)<br>
+[MySQL-0021.How to Secure Your Database Connection Using the ssl-mode Option in MySQL Shell](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0021.How%20to%20Secure%20Your%20Database%20Connection%20Using%20the%20ssl-mode%20Option%20in%20MySQL%20Shell.md)<br>
 
 
 
