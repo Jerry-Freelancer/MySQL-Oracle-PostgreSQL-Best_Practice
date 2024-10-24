@@ -26,6 +26,7 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 [MySQL-0020.Give Love to Your MySQL – Reduce the number of threads when copy utilities](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0020.Give%20Love%20to%20Your%20MySQL%20%E2%80%93%20Reduce%20the%20number%20of%20threads%20when%20copy%20utilities.md)<br>
 [MySQL-0021.How to Secure Your Database Connection Using the ssl-mode Option in MySQL Shell](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0021.How%20to%20Secure%20Your%20Database%20Connection%20Using%20the%20ssl-mode%20Option%20in%20MySQL%20Shell.md)<br>
 [MySQL-0022.How to migrate from MongoDB to MySQL](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0022.How%20to%20migrate%20from%20MongoDB%20to%20MySQL.md)<br>
+[MySQL-0023.SHOW MASTER STATUS has gone away?](https://github.com/Jerry-Freelancer/MySQL_Cases/blob/main/0023.SHOW%20MASTER%20STATUS%20has%20gone%20away%EF%BC%9F.md)<br>
 
 
 
