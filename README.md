@@ -1,4 +1,4 @@
-# <p align="center">awesome-MySQL</p>
+# <p align="center">Awesome MySQL</p>
 Share some best practices of MySQL from time to time, I hope this writing is useful to you.<br>
 If you have any questions, please contact me through shurp12138@gmail.com.
 
